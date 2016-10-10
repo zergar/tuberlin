@@ -7,7 +7,7 @@
 * [E-Mail](http://www.tubit.tu-berlin.de/?id=42873)
 
 ### NiceToHave
-* [Qispos]()
+* [Qispos](https://www.youtube.com/watch?v=WZlRV1dSxsE)
 * [Karte](https://www.tu-berlin.de/menue/service/standortuebersicht/campusplan/)
 * [Räume @ TUB](http://www.behindertenberatung.tu-berlin.de/menue/barrierefreier_zugang/hoersaele_und_gebaeude/)
 * [MyDesk](https://www.mydesk.tu-berlin.de/)
