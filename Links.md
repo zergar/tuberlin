@@ -13,5 +13,5 @@
 * [MyDesk](https://www.mydesk.tu-berlin.de/)
 * [TUBIT Account](http://www.tubit.tu-berlin.de/registrierung)
 
-### Zu ereldigen
+### Zu erledigen
 * [Mantelbogen (Bachelor)](https://www.tu-berlin.de/fileadmin/ref10/internetzulassungsantrag_mantelbogen_word_BA.pdf)
