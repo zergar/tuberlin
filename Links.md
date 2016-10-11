@@ -1,6 +1,6 @@
 # tuberlin
 
-### Überlebensnotwenig:
+### Überlebensnotwendig:
 * [eduroam](https://www.tubit.tu-berlin.de/wlan/)
 * [ISIS](https://isis.tu-berlin.de/my/)
 * [Moseskonto](https://moseskonto.tu-berlin.de/moses/index.html)
